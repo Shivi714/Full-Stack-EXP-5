@@ -252,7 +252,7 @@ Open browser → http://localhost:5173
 ## 📸 Route UI Screenshots
 
 ### 📊 Dashboard Route
-![Dashboard Route](photos/dashboard_route.png)
+![Dashboard Route](photos/Dashboard_route.png)
 
 ---
 
