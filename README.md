@@ -105,17 +105,24 @@ This reduces:
 ## 📸 UI Screenshots
 
 ### 🏠 Home Page UI
-![Home UI](photos/Home_ui.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de3bcdae-f8ca-4736-b811-bcb95b9f3dac" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bde6688b-7ace-4290-899a-2e2b6d09c34d" />
+
+
 
 ---
 
 ### ℹ️ About Page UI
-![About UI](photos/About_ui.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21f3ad77-0fd4-411e-8b65-2239e73629ef" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65c997e0-b50f-49e5-b170-670aa0609cc1" />
+
 
 ---
 
 ### 📞 Contact Page UI
-![Contact UI](photos/Contact_ui.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fae3bc32-b166-4535-b1f3-a947e2eee6fc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98c63be5-8180-4966-a9dc-e8dbf95d5889" />
+
 
 ---
 
@@ -252,12 +259,16 @@ Open browser → http://localhost:5173
 ## 📸 Route UI Screenshots
 
 ### 📊 Dashboard Route
-![Dashboard Route](photos/Dashboard_route.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce6f5487-9fea-4d5e-b6b6-9b8c022c73fb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b8c64e3-9d0f-466e-b0c5-9031af689f4e" />
+
 
 ---
 
 ### 👤 Profile Route
-![Profile Route](photos/Profile_route.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cbb4576-fe96-4a69-b8e8-baf572c88713" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34174d97-8261-4dac-9d25-2ca863e87328" />
+
 
 ---
 
