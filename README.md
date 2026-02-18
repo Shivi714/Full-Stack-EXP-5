@@ -272,8 +272,6 @@ Open browser → http://localhost:5173
 
 ---
 
-### ⚙️ Settings Route
-![Settings Route](photos/Settings_route.png)
 
 ---
 
